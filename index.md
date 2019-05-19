@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### ML/DL Study
 
 [Chapter 6, Deep Learning Book](/pdf/DLBook_ch06.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
