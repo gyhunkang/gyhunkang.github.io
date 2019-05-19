@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/DLBook_ch06.html)
+[Chapter 6, Deep Learning Book](/pdf/DLBook_ch06.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
