@@ -4,25 +4,19 @@
 
 ### ML/DL Study
 
-[Chapter 6, Deep Learning Book](/pdf/DLBook_ch06.html)
-
+[Chapter 6, Deep Learning Book](https://github.com/gyhunkang/DeepLearningBook/blob/master/DLBook_ch06.ipynb)
+[Chapter 7, Deep Learning Book](https://github.com/gyhunkang/DeepLearningBook/blob/master/DLBook_ch07.ipynb)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
